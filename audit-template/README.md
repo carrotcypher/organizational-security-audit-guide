@@ -350,7 +350,7 @@ Below is an example plan constructed as a to-do list you can use for your audit 
 
 > **Incident Response Plan:**
 > 
-> - [ ] Be ready for a ransomware attack <i>(form a team, have emergency contacts, have a plan based on backups that can be restored, think about insurance, worst case decide how much money you'd pay for ransom if needed, etc)<i>.
+> - [ ] Be ready for a ransomware attack <i>(form a team, have emergency contacts, have a plan based on backups that can be restored, think about insurance, worst case decide how much money you'd pay for ransom if needed, etc)</i>.
 > - [ ] Make a plan that explains what to do if there are breaches and leaks, like who does what and how to report and respond to issues.
 
 <br>
